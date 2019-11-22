@@ -4,8 +4,7 @@ title:  "PORTFOLIO"
 date:   2019-11
 categories: 
 ---
-이름 : 최미현
-소속 : 강원대학교 미디어공학전공
+name : Mi Hyeon
 
 ```javascript
 const Razorpay = require('razorpay');
