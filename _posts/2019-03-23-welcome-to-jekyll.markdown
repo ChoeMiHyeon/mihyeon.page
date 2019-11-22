@@ -2,7 +2,7 @@
 layout: Portfolio
 title:  "PORTFOLIO"
 date:   2019-11
-categories: 
+categories: A B
 ---
 name : Mi Hyeon
 
