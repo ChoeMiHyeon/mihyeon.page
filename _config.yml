@@ -13,15 +13,14 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Choe Mi Hyeon
-  tagline: Developer. Designer
+  tagline: Kangwonuniversity
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    email: cmh990315@naver.com
+    github:  https://choemihyeon.github.io/mihyeon.page/
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
