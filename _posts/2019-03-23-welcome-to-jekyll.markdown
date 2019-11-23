@@ -36,11 +36,11 @@ categories:
 <br><img src="https://ifh.cc/g/pNnEx.png" height="200" width="320"><img src="https://ifh.cc/g/8AKRz.png" height="200" width="320"><img src="https://ifh.cc/g/8VIyP.png" height="200" width="320">
 <br><br><br><br>
 <br><b>ㆍc언어 프로그래밍 설계 및 구현</b>
-<div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300">
+<div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300"></div>
 <br>&#60;대여 프로그램 보고서 일부&#62;
 <br>
 <br>
-소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.</div>
+소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.
 <br>
 <br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
