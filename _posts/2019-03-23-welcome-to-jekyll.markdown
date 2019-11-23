@@ -5,7 +5,7 @@ title:  "PORTFOLIO"
 categories: 
 ---
 
-<h3><b>최미현 (崔美賢 / Choe Mi Hyeon)</b></h3>
+<<b>최미현 (崔美賢 / Choe Mi Hyeon)</b>
 <br>ㆍ1999년 03월 15일생 / 여성
 <br>ㆍcmh990315@gmail.com / 010-4083-1508
 <br>ㆍ강원도 삼척시 동해대로 4273 (교동 동부아파트) 102-1410
@@ -13,7 +13,7 @@ categories:
 <br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br>
-<h3><b>Education</b></h3>
+<b>Education</b>
 <br>ㆍ(2006 ~ 2012) 성덕초등학교 졸업
 <br>ㆍ(2012 ~ 2015) 강릉여자중학교 졸업
 <br>ㆍ(2015 ~ 2018) 강원애니고등학교 문화콘텐츠과(영화방송전공) 졸업
@@ -21,7 +21,7 @@ categories:
 <br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br>
-<h3><b>Ability</b></h3>
+<b>Ability</b>
 <br>ㆍ<b>컴퓨터그래픽스운용기능사</b> 자격증 취득
 <br>ㆍ<b>Microsoft Visual studio, Eclipse java</b>를 활용한 c언어 프로그래밍과 open GL 그래픽스, java 프로그래밍 구현
 <br>ㆍ<b>Adobe premiere, Adobe after effect, Apple final cut</b>등을 이용하여 영상 편집
@@ -30,7 +30,7 @@ categories:
 <br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br>
-<h3><b>experience</b></h3>
+<b>experience</b>
 <br>ㆍ<b>동아리 활동</b> : 영상 제작 동아리 <b>"so cool"</b>에서 뮤직비디오 연출, 기획, 촬영에 참여 / c언어 동아리 <b>"영하나"</b>에서 기초적인 c언어에 대한 지식 습득
 <br>ㆍ<b>프로그래밍</b> : 소프트웨어 공학 강의 과제로 전화번호부, 대여 프로그램 등 직접 프로그래밍하여 시스템 구현 / open GL 참여 프로젝트 과제로 간단한 태양계, 다마고치 게임 설계 및 구현
 <br><br>
@@ -44,9 +44,10 @@ categories:
 <br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br>
-<h3><b>Area Of Concerns</b></h3>
+<b>Area Of Concerns</b>
 <br>영상기획 및 제작, 프로그래밍 등을 교육받으며 직접 구현하면서 그와 관련된 분야에 자연스레 관심을 가지게 되었습니다. 그리고 프로그램 기술 능력으로 IT 시대에서 주목받는 콘텐츠를 제작하는 것이 저의 목표가 되었습니다. 이를 활용하여 저의 능력을 더욱 향상시키고 직접적인 경험을 쌓을 수 있는 기회가 되도록 노력하고 있습니다. 다음은 제가 달성하고자 노력하고있는 목표입니다.
 <br><br>
 <b>ㆍYoutube 활동</b> : 전 세계 사람들이 이용하고 있는 영상 커뮤니티 사이트인 Youtube는 네트워크가 보편화 되어있는 현재 시대에 영상 관련 분야가 가장 돋보일 수 있는 분야입니다. 사람들이 직접 콘텐츠를 기획하고 영상을 제작하고 제작된 영상들을 무료로 시청할 수 있는 글로벌 사이트인 만큼 영상 제작 및 편집 능력을 향상시킬 뿐만 아니라 직접적인 경험을 통해 사회 트렌드, 사람들의 관심사 등을 느낄 수 있는 중요한 기회를 마련합니다.
 <br><br>
-<b>ㆍ영상 편집</b> : 
+<b>ㆍ음향</b> : 음악 듣기, 악기 연주하기, 영화감상이 취미이면서 영상을 직접 제작해보면서 소리가 얼마나 중요한 요소인지 알게 되었습니다. 이러한 소리를 더욱 다듬어 작품의 분위를 바꾸는 것이 음향 매력을 알고 나서 음향 분야에 관심을 가지게 되었습니다. 방송국과 같이 스위처를 사용하여 음향을 컨트롤하는 음향 엔지니어링, 영상의 소리를 보정하는 음향 편집에 관한 공부를 하고싶습니다.
+<br><br>
