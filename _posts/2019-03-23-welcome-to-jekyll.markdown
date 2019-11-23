@@ -39,6 +39,6 @@ categories:
 <hr align="left" style="border: solid 1px gray; width: 60%;">
 <br>
 <tr>
-<th><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><<img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300">ㆍ랄랄라</th>
+<th><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300">ㆍ랄랄라</th>
 </tr>
 
