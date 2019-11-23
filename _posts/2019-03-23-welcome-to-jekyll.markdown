@@ -5,10 +5,11 @@ title:  "PORTFOLIO"
 categories: 
 ---
 
-<b>최미현 (崔美賢)</b>
+<b>최미현 (崔美賢 / Choe Mi Hyeon)</b>
 <br>1999년 03월 15일생 / 여성
 <br>강원대학교 미디어공학전공 201821180
 <br>cmh990315@gmail.com / 010-4083-1508
+<br>강원도 삼척시 동해대로 4273 (교동 동부아파트) 102-1410
 <br>
 <br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
