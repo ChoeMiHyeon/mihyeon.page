@@ -5,7 +5,7 @@ title:  "PORTFOLIO"
 categories: 
 ---
 
-<<b>최미현 (崔美賢 / Choe Mi Hyeon)</b>
+<b>최미현 (崔美賢 / Choe Mi Hyeon)</b>
 <br>ㆍ1999년 03월 15일생 / 여성
 <br>ㆍcmh990315@gmail.com / 010-4083-1508
 <br>ㆍ강원도 삼척시 동해대로 4273 (교동 동부아파트) 102-1410
