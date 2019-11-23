@@ -38,5 +38,5 @@ categories:
 <br>
 <hr align="left" style=" black;">
 <br>
-<img src="https://ifh.cc/g/kq9Ld.png" height="500" width="350"><img src="https://ifh.cc/g/PJvho.jpg" height="500" width="350">
+<img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300">
 
