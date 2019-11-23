@@ -6,10 +6,10 @@ categories:
 ---
 
 <b>최미현 (崔美賢 / Choe Mi Hyeon)</b>
-<br>1999년 03월 15일생 / 여성
-<br>cmh990315@gmail.com / 010-4083-1508
-<br>강원도 삼척시 동해대로 4273 (교동 동부아파트) 102-1410
-<br>강원대학교 미디어공학전공 201821180
+<br>ㆍ1999년 03월 15일생 / 여성
+<br>ㆍcmh990315@gmail.com / 010-4083-1508
+<br>ㆍ강원도 삼척시 동해대로 4273 (교동 동부아파트) 102-1410
+<br>ㆍ강원대학교 미디어공학전공 201821180
 <br>
 <br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
@@ -35,7 +35,7 @@ categories:
 <br><br><br><br>
 <br><b>ㆍc언어 프로그래밍 설계 및 구현</b>
 <div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300"></div><br><br>
-<br>&#60;대여 프로그램 보고서 일부&#62;
+<br><b>&#60;대여 프로그램 보고서 일부&#62;</b>
 <br><br>
 소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
