@@ -25,7 +25,7 @@ categories:
 <br>ㆍ<b>Microsoft Visual studio, Eclipse java</b>를 활용한 c언어 프로그래밍과 open GL 그래픽스, java 프로그래밍 구현
 <br>ㆍ<b>Adobe premiere, Adobe after effect, Apple final cut</b>등을 이용하여 영상 편집
 <br>ㆍ<b>Adobe photoshop, Adobe illustrator, Clip Studio Paint clip studio</b>로 사진 및 일러스트 제작
-<br><br>&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/fd4le.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/98doQ.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/CW3Cr.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/832s0.png">
+<br><br><br>&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/fd4le.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/98doQ.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/CW3Cr.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/832s0.png">
 <br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br><b>experience</b>
@@ -41,4 +41,6 @@ categories:
 소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br><b>Area Of Concerns</b>
-<br>고등학교 시절, 영화방송전공을 하면서 각종 영상제작에 흥미를 느끼게 되었고, 현재에는 미디어공학전공을 하면서 프로그래밍, 음향 엔지니어링에 많은 관심을 가지게 되었습니다. 그리고 IT산업이 발전을 하고 있는 지금 시대에서 세계의 모두가 주목하는 분야에도 관심을 가지게 되었습니다. 그 중에서도 가장 도전해 보고싶은 것은 영상을 통한 커뮤니케이션 사이트인 Youtube에서 적극적인 활동을 하는 것입니다.
+<br>영상기획 및 제작, 프로그래밍 등을 교육받으며 직접 구현하면서 그와 관련된 분야에 자연스레 관심을 가지게 되었습니다. 그리고 프로그램 기술 능력으로 IT 시대에서 주목받는 콘텐츠를 제작하는 것이 저의 목표가 되었습니다. 이를 활용하여 저의 능력을 더욱 향상시키고 직접적인 경험을 쌓을 수 있는 기회가 되도록 노력하고 있습니다. 다음은 제가 달성하고자 노력하고있는 목표입니다.
+<br><br>
+<b>ㆍYoutube 활동</b> : 전 세계 사람들이 이용하고 있는 영상 커뮤니티 사이트인 Youtube는 네트워크가 보편화 되어있는 현재 시대에 영상 관련 분야가 가장 돋보일 수 있는 분야입니다. 사람들이 직접 콘텐츠를 기획하고 영상을 제작하고 제작된 영상들을 무료로 시청할 수 있는 글로벌 사이트인 만큼 영상 제작 및 편집 능력을 향상시킬 뿐만 아니라 직접적인 경험을 통해 사회 트렌드, 사람들의 관심사 등을 느낄 수 있는 중요한 기회를 마련합니다.
