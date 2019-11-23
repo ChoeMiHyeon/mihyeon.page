@@ -29,7 +29,7 @@ categories:
 <br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><b>experience</b>
-<div id="pic"><img src="https://ifh.cc/g/pNnEx.png"></div>
+<div id="pic"><img src="https://ifh.cc/g/pNnEx.png" height="200" width="320"></div>
 <div id="sub">
         <br>ㆍ동아리 활동 : 영상 제작 동아리 "so cool"에서 뮤직비디오 연출, 기획, 촬영에 참여
 <br>ㆍ프로그래밍 : 소프트웨어 공학 강의 과제로 전화번호부, 대여 프로그램 등 직접 프로그래밍하여 시스템 구현 / open GL 참여 프로젝트 과제로 간단한 태양계, 다마고치 게임 설계 및 구현</div>
