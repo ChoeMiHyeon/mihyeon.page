@@ -35,10 +35,10 @@ categories:
 <br><img src="https://ifh.cc/g/pNnEx.png" height="200" width="320"><img src="https://ifh.cc/g/8AKRz.png" height="200" width="320"><img src="https://ifh.cc/g/8VIyP.png" height="200" width="320">
 <br><br><br>
 <br><b>ㆍc언어 프로그래밍 설계 및 구현</b>
-<div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300"></div><br><br>
+<p><div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300"></div><br><br>
 <br><b>&#60;대여 프로그램 보고서 일부&#62;</b>
 <br><br>
-소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.
+소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.</p>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br><b>Area Of Concerns</b>
 <br>영상기획 및 제작, 프로그래밍 등을 교육받으며 직접 구현하면서 그와 관련된 분야에 자연스레 관심을 가지게 되었습니다. 그리고 프로그램 기술 능력으로 IT 시대에서 주목받는 콘텐츠를 제작하는 것이 저의 목표가 되었습니다. 이를 활용하여 저의 능력을 더욱 향상시키고 직접적인 경험을 쌓을 수 있는 기회가 되도록 노력하고 있습니다. 다음은 제가 달성하고자 노력하고있는 목표입니다.
