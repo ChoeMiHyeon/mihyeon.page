@@ -32,11 +32,9 @@ categories:
 <br><b>experience</b>
 <br>ㆍ<b>동아리 활동</b> : 영상 제작 동아리 <b>"so cool"</b>에서 뮤직비디오 연출, 기획, 촬영에 참여 / c언어 동아리 <b>"영하나"</b>에서 기초적인 c언어에 대한 지식 습득
 <br>ㆍ<b>프로그래밍</b> : 소프트웨어 공학 강의 과제로 전화번호부, 대여 프로그램 등 직접 프로그래밍하여 시스템 구현 / open GL 참여 프로젝트 과제로 간단한 태양계, 다마고치 게임 설계 및 구현
-<br>
+<br><br>
 <br><img src="https://ifh.cc/g/pNnEx.png" height="200" width="320"><img src="https://ifh.cc/g/8AKRz.png" height="200" width="320"><img src="https://ifh.cc/g/8VIyP.png" height="200" width="320">
-<br>
-<br>
-<br>
+<br><br><br>
 <br><b>ㆍc언어 프로그래밍 설계 및 구현</b>
 <div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300"></div>
 <br>&#60;대여 프로그램 보고서 일부&#62;
