@@ -9,10 +9,17 @@ categories:
 <br>1999년 03월 15일생 / 여성
 <br>강원대학교 미디어공학전공 201821180
 <br>cmh990315@gmail.com / 010-4083-1508
+<br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
+<br><b>Education</b>
 <br>ㆍ(2006 ~ 2012) 성덕초등학교 졸업
 <br>ㆍ(2012 ~ 2015) 강릉여자중학교 졸업
 <br>ㆍ(2015 ~ 2018) 강원애니고등학교 졸업
 <br>ㆍ(2018 ~     ) 강원대학교 삼척캠퍼스 재학중
 <br>
+<br
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
+<br><b>Ability</b>
+<br>ㆍ컴퓨터그래픽스운용기능사 자격증 취득
+<br>ㆍVisual studio를 활용한 c언어 프로그래밍
+<br>ㆍAdobe premiere, after effect, Apple final cut 등을 이용하여 영상 편집 능력
