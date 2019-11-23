@@ -21,8 +21,10 @@ categories:
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><b>Ability</b>
 <br>ㆍ컴퓨터그래픽스운용기능사 자격증 취득
-<br>ㆍVisual studio를 활용한 c언어 프로그래밍
-<br>ㆍAdobe premiere, after effect, Apple final cut 등을 이용하여 영상 편집 능력
+<br>ㆍMicrosoft Visual studio, Eclipse java를 활용한 c언어 프로그래밍과 open GL 그래픽스, java 프로그래밍 구현
+<br>ㆍAdobe premiere, Adobe after effect, Apple final cut등을 이용하여 영상 편집
+<br>ㆍAdobe photoshop, Adobe illustrator, Clip Studio Paint clip studio로 사진 및 일러스트 제작
+<br>
 <br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br>
