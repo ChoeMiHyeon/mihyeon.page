@@ -17,9 +17,28 @@ categories:
 <br>ㆍ(2015 ~ 2018) 강원애니고등학교 졸업
 <br>ㆍ(2018 ~     ) 강원대학교 삼척캠퍼스 재학중
 <br>
-<br
+<br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><b>Ability</b>
 <br>ㆍ컴퓨터그래픽스운용기능사 자격증 취득
 <br>ㆍVisual studio를 활용한 c언어 프로그래밍
 <br>ㆍAdobe premiere, after effect, Apple final cut 등을 이용하여 영상 편집 능력
+<br>
+<hr align="left" style="border: solid 1.5px black; width: 60%;">
+<br>
+
+<style type="text/css">
+#pic {
+width: 320px;
+        height: 200px;
+        float: left;
+        margin: 0px 0px 0px 20px;
+        }
+        
+        
+#sub {
+width: 580px;
+        height: 200px;
+        margin-left: 350px;
+        }
+</style>
