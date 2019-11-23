@@ -25,6 +25,7 @@ categories:
 <br>ㆍ<b>Microsoft Visual studio, Eclipse java</b>를 활용한 c언어 프로그래밍과 open GL 그래픽스, java 프로그래밍 구현
 <br>ㆍ<b>Adobe premiere, Adobe after effect, Apple final cut</b>등을 이용하여 영상 편집
 <br>ㆍ<b>Adobe photoshop, Adobe illustrator, Clip Studio Paint clip studio</b>로 사진 및 일러스트 제작
+<img src="https://ifh.cc/g/fd4le.png">  <img src="https://ifh.cc/g/98doQ.png">  <img src="https://ifh.cc/g/CW3Cr.png">  <img src="https://ifh.cc/g/832s0.png">
 <br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br><b>experience</b>
@@ -32,7 +33,7 @@ categories:
 <br>ㆍ<b>프로그래밍</b> : 소프트웨어 공학 강의 과제로 전화번호부, 대여 프로그램 등 직접 프로그래밍하여 시스템 구현 / open GL 참여 프로젝트 과제로 간단한 태양계, 다마고치 게임 설계 및 구현
 <br><br>
 <br><img src="https://ifh.cc/g/pNnEx.png" height="200" width="320"><img src="https://ifh.cc/g/8AKRz.png" height="200" width="320"><img src="https://ifh.cc/g/8VIyP.png" height="200" width="320">
-<br><br><br><br>
+<br><br><br>
 <br><b>ㆍc언어 프로그래밍 설계 및 구현</b>
 <div style="with:600px;height:428px;float:left;"><img src="https://ifh.cc/g/kq9Ld.png" height="428" width="300"><img src="https://ifh.cc/g/PJvho.jpg" height="428" width="300"></div><br><br>
 <br><b>&#60;대여 프로그램 보고서 일부&#62;</b>
