@@ -46,8 +46,9 @@ categories:
 <br><b>ㆍ영상 제작</b>
 <br><br>
 <p><img src="https://ifh.cc/g/sf3n8.png" height="279" width="450"><img src="https://ifh.cc/g/ASyJ4.png" height="279" width="450">
-<br><b>&#60;타이포그래픽영상 일부&#62;</b><br>
-<br>Adobe After Effect 프로그램을 이용하여 노래에 맞는 타이포그래픽을 제작한 영상입니다. 노래의 가사를 어떻게 표현할지 기획하고 기획을 바탕으로 여러 효과를 직접 제작하였습니다. 또한 노래의 싱크로율에 맞추어 편집하는 기술을 포함하였습니다.</p>
+<br><br>
+<b>&#60;타이포그래픽영상 일부&#62;</b><br>
+Adobe After Effect 프로그램을 이용하여 노래에 맞는 타이포그래픽을 제작한 영상입니다. 노래의 가사를 어떻게 표현할지 기획하고 기획을 바탕으로 여러 효과를 직접 제작하였습니다. 또한 노래의 싱크로율에 맞추어 편집하는 기술을 포함하였습니다.</p>
 <br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
 <br><br>
