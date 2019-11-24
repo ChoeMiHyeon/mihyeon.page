@@ -44,7 +44,7 @@ categories:
 소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.</p>
 <br><br><br><br><br><br>
 <br><b>ㆍ영상 제작</b>
-<p><div style="width:900px; height:479px;float:left;><img src="https://ifh.cc/g/sf3n8.png" height="279" width="450"><img src="https://ifh.cc/g/ASyJ4.png" height="279" width="450"></div><br><br>
+<p><div style="width:900px; height:479px;float:left;"><img src="https://ifh.cc/g/sf3n8.png" height="279" width="450"><img src="https://ifh.cc/g/ASyJ4.png" height="279" width="450"></div><br><br>
 <br><b>&#60;타이포그래픽영상 일부&#62;</b>
 <br><br>
 Adobe After Effect 프로그램을 이용하여 노래에 맞는 타이포그래픽을 제작한 영상입니다. 노래의 가사를 어떻게 표현할지 기획하고 기획을 바탕으로 여러 효과를 직접 제작하였습니다. 또한 노래의 싱크로율에 맞추어 편집하는 기술을 포함하였습니다.
