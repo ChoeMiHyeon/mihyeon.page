@@ -42,7 +42,7 @@ categories:
 <br><b>&#60;대여 프로그램 보고서 일부&#62;</b>
 <br><br>
 소프트웨어 산업이 발전하고 중요시되어가는 지금 이 시대에서 사회에 기본적인 프로그램을 설계하였습니다. Flowchart를 이용한 설계, 직접 코드소스를 구현하여 테스트하며 여러 오류를 스스로 해결하는 과정을 겪으며 프로그래밍의 능력을 향상시켰습니다.</p>
-<br><br><br><br><br><br>
+<br><br><br><br>
 <br><b>ㆍ영상 제작</b>
 <p><img src="https://ifh.cc/g/sf3n8.png" height="279" width="450"><img src="https://ifh.cc/g/ASyJ4.png" height="279" width="450">
 <br><br>
