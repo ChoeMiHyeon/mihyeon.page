@@ -10,26 +10,26 @@ categories:
 <br>ㆍcmh990315@gmail.com / 010-4083-1508
 <br>ㆍ강원도 삼척시 동해대로 4273 (교동 동부아파트) 102-1410
 <br>ㆍ강원대학교 미디어공학전공 201821180
-<br><br>
+<br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
-<br><br>
+<br><br><br>
 <b>&#8756; Education</b>
 <br>ㆍ(2006 ~ 2012) 성덕초등학교 졸업
 <br>ㆍ(2012 ~ 2015) 강릉여자중학교 졸업
 <br>ㆍ(2015 ~ 2018) 강원애니고등학교 문화콘텐츠과(영화방송전공) 졸업
 <br>ㆍ(2018 ~     ) 강원대학교 삼척캠퍼스 컴퓨터미디어산업공학부(미디어공학전공) 재학중
-<br><br><br>
+<br><br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
-<br><br>
+<br><br><br>
 <b>&#8756; Ability</b>
 <br>ㆍ<b>컴퓨터그래픽스운용기능사</b> 자격증 취득
 <br>ㆍ<b>Microsoft Visual studio, Eclipse java</b>를 활용한 c언어 프로그래밍과 open GL 그래픽스, java 프로그래밍 구현
 <br>ㆍ<b>Adobe premiere, Adobe after effect, Apple final cut</b>등을 이용하여 영상 편집
 <br>ㆍ<b>Adobe photoshop, Adobe illustrator, Clip Studio Paint clip studio</b>로 사진 및 일러스트 제작
 <br><br><br>&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/fd4le.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/98doQ.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/CW3Cr.png">&emsp;&emsp;&emsp;&emsp;<img src="https://ifh.cc/g/832s0.png">
-<br><br><br>
+<br><br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
-<br><br>
+<br><br><br>
 <b>&#8756; experience</b>
 <br>ㆍ<b>동아리 활동</b> : 영상 제작 동아리 <b>"so cool"</b>에서 뮤직비디오 연출, 기획, 촬영에 참여 / c언어 동아리 <b>"영하나"</b>에서 기초적인 c언어에 대한 지식 습득
 <br>ㆍ<b>프로그래밍</b> : 소프트웨어 공학 강의 과제로 전화번호부, 대여 프로그램 등 직접 프로그래밍하여 시스템 구현 / open GL 참여 프로젝트 과제로 간단한 태양계, 다마고치 게임 설계 및 구현
@@ -49,9 +49,9 @@ categories:
 <br><br>
 <b>&#60;타이포그래픽영상 일부&#62;</b><br>
 Adobe After Effect 프로그램을 이용하여 노래에 맞는 타이포그래픽을 제작한 영상입니다. 노래의 가사를 어떻게 표현할지 기획하고 기획을 바탕으로 여러 효과를 직접 제작하였습니다. 또한 노래의 싱크로율에 맞추어 편집하는 기술을 포함하였습니다.</p>
-<br><br>
+<br><br><br>
 <hr align="left" style="border: solid 1.5px black; width: 60%;">
-<br><br>
+<br><br><br>
 <b>&#8756; Area Of Concerns</b>
 <br>영상기획 및 제작, 프로그래밍 등을 교육받으며 직접 구현하면서 그와 관련된 분야에 자연스레 관심을 가지게 되었습니다. 그리고 프로그램 기술 능력으로 IT 시대에서 주목받는 콘텐츠를 제작하는 것이 저의 목표가 되었습니다. 이를 활용하여 저의 능력을 더욱 향상시키고 직접적인 경험을 쌓을 수 있는 기회가 되도록 노력하고 있습니다. 다음은 제가 달성하고자 노력하고있는 목표입니다.
 <br><br>
