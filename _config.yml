@@ -19,6 +19,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
+   social_links:
+    email: cmh990315@gmail.com
+    github:  thelehhman
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -32,6 +35,7 @@ plainwhite:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
+    # email: jekyll
 
     # Mastodon instances
     # mastodon:
