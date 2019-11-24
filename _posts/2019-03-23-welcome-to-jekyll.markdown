@@ -33,6 +33,7 @@ categories:
 <b>experience</b>
 <br>ㆍ<b>동아리 활동</b> : 영상 제작 동아리 <b>"so cool"</b>에서 뮤직비디오 연출, 기획, 촬영에 참여 / c언어 동아리 <b>"영하나"</b>에서 기초적인 c언어에 대한 지식 습득
 <br>ㆍ<b>프로그래밍</b> : 소프트웨어 공학 강의 과제로 전화번호부, 대여 프로그램 등 직접 프로그래밍하여 시스템 구현 / open GL 참여 프로젝트 과제로 간단한 태양계, 다마고치 게임 설계 및 구현
+<br>ㆍ<b>취미 활동</b> : 예술 문화에 관심이 많기에 음악 듣기, 영화 감상, 게임 플레이, 일러스트 제작 등등의 문화생활 / 감상문 작성, SNS 작품활동과 같은 기록을 남기며 자신의 생각과 다른 사람들의 생각을 비교하여 더 넓은 시야를 확보
 <br><br>
 <br><img src="https://ifh.cc/g/pNnEx.png" height="200" width="320"><img src="https://ifh.cc/g/8AKRz.png" height="200" width="320"><img src="https://ifh.cc/g/8VIyP.png" height="200" width="320">
 <br><br><br>
